@@ -93,3 +93,54 @@ Windows has modern trackpad support that mirrors the macOS experience.
 | **Show Desktop**          | Spread with thumb and 3 fingers      | Swipe down with three fingers                      |
 | **Switch Between Apps**   | Swipe left/right with 3 or 4 fingers | Swipe left or right with three fingers             |
 | **Right-Click**           | Two-finger tap or press              | Two-finger tap or press in the bottom-right corner |
+
+## 7. Microsoft Office Suite Shortcuts
+
+Common commands for Word, PowerPoint, and Excel.
+
+### **Microsoft Word**
+
+| Task/Function | macOS Shortcut | **Windows Shortcut** |
+| :--- | :--- | :--- |
+| **Bold Text** | `⌘ + B` | `Ctrl + B` |
+| **Italicize Text** | `⌘ + I` | `Ctrl + I` |
+| **Underline Text** | `⌘ + U` | `Ctrl + U` |
+| **Increase Font Size** | `⌘ + Shift + >` | `Ctrl + Shift + >` |
+| **Decrease Font Size** | `⌘ + Shift + <` | `Ctrl + Shift + <` |
+| **Center Align Text** | `⌘ + E` | `Ctrl + E` |
+| **Left Align Text** | `⌘ + L` | `Ctrl + L` |
+| **Right Align Text** | `⌘ + R` | `Ctrl + R` |
+| **Insert Page Break**| `⌘ + Enter` | `Ctrl + Enter` |
+| **Insert Hyperlink** | `⌘ + K` | `Ctrl + K` |
+| **Check Spelling & Grammar** | `F7` or `Option + F7` | `F7` |
+
+### **Microsoft PowerPoint**
+
+| Task/Function | macOS Shortcut | **Windows Shortcut** |
+| :--- | :--- | :--- |
+| **Start Presentation** | `⌘ + Shift + Return` | `F5` |
+| **Start from Current Slide** | `⌘ + Return` | `Shift + F5` |
+| **End Presentation** | `Esc` | `Esc` |
+| **Insert New Slide** | `⌘ + Shift + N` | `Ctrl + M` |
+| **Duplicate Current Slide** | `⌘ + Shift + D` | `Ctrl + D` or `Ctrl + Shift + D` |
+| **Group Objects** | `⌘ + Option + G` | `Ctrl + G` |
+| **Ungroup Objects** | `⌘ + Option + Shift + G` | `Ctrl + Shift + G` |
+| **Go to Next Slide** | `Page Down` or `N` | `Page Down` or `N` |
+| **Go to Previous Slide**| `Page Up` or `P` | `Page Up` or `P` |
+| **Show/Hide Gridlines** | `Option + F9` | `Shift + F9` |
+
+### **Microsoft Excel**
+
+| Task/Function | macOS Shortcut | **Windows Shortcut** |
+| :--- | :--- | :--- |
+| **Select Entire Row** | `Shift + Spacebar` | `Shift + Spacebar` |
+| **Select Entire Column**| `Control + Spacebar` | `Ctrl + Spacebar` |
+| **Edit Cell** | `F2` or `Control + U` | `F2` |
+| **Autosum Selected Cells** | `⌘ + Shift + T` | `Alt + =` |
+| **Insert Current Date** | `Control + ;` | `Ctrl + ;` |
+| **Insert Current Time** | `⌘ + ;` | `Ctrl + Shift + :` |
+| **Move to Edge of Data** | `⌘ + Arrow Key` | `Ctrl + Arrow Key` |
+| **Switch Between Worksheets**| `Option + ▶` / `Option + ◀` | `Ctrl + Page Up` / `Ctrl + Page Down` |
+| **Format Cells Dialog** | `⌘ + 1` | `Ctrl + 1` |
+| **Fill Down from Cell Above** | `⌘ + D` | `Ctrl + D` |
+| **Fill Right from Cell to Left** | `⌘ + R` | `Ctrl + R` |
