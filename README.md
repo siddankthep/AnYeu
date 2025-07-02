@@ -1,4 +1,5 @@
 # ChucAn
+
 Anything for my wonderful girlfriend
 
 # Windows Cheatsheet for MacBook Users
@@ -25,6 +26,7 @@ These are the fundamental commands for everyday tasks.
 | :---------------------------- | :----------------- | :----------------------------------------------------- |
 | **Copy**                      | `⌘ + C`            | `Ctrl + C`                                             |
 | **Paste**                     | `⌘ + V`            | `Ctrl + V`                                             |
+| **Open Clipboard**            | `Unknown`          | `Windows key (⊞) + V`                                  |
 | **Cut**                       | `⌘ + X`            | `Ctrl + X`                                             |
 | **Undo**                      | `⌘ + Z`            | `Ctrl + Z`                                             |
 | **Redo**                      | `⌘ + Shift + Z`    | `Ctrl + Y`                                             |
